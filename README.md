@@ -22,10 +22,10 @@ Run ``` npm run start ``` command in terminal(Mac) or command promt(windows) to 
 
 ## Application
 
-The application is deployed in heroku and can be found at 
+The application is deployed in heroku and can be found at https://desolate-spire-49483.herokuapp.com/
 
 
 ## Screenshots
-<!-- <img src="public/assets/images/1.png"><br>
+ <img src="public/assets/images/1.png"><br>
 <img src="public/assets/images/2.png"><br>
-<img src="public/assets/images/3.png"><br> -->
+<img src="public/assets/images/3.png"><br> 
