@@ -13,7 +13,7 @@ request.onsuccess = function(event) {
     }
 };
 request.onerror = function(event) {
-    // log error here
+    console.log("Woops! " + event.target.errorCode);
 };
 function saveRecord(record) {
     // create a transaction on the pending db with readwrite access
